@@ -1,1 +1,88 @@
-<mxfile host="app.diagrams.net" modified="2021-02-15T10:33:06.615Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" version="14.3.1" etag="oDzTP8HWMb4TURmePHvs" type="github"><diagram id="4ak0Vm3mq9aS-JCLHp02">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-15T11:19:44.388Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="nuZhVOWfzoQlwIdktU8_" version="14.3.1" type="github">
+  <diagram id="4ak0Vm3mq9aS-JCLHp02" name="Page-1">
+    <mxGraphModel dx="2422" dy="1092" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QHqVieoAo0VyWfZBsxKu-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="20" width="730" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="QHqVieoAo0VyWfZBsxKu-2" value="Capobianco" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="QHqVieoAo0VyWfZBsxKu-1">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="QHqVieoAo0VyWfZBsxKu-3" value="https://www.marconicloud.it" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="QHqVieoAo0VyWfZBsxKu-1">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="QHqVieoAo0VyWfZBsxKu-4" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="QHqVieoAo0VyWfZBsxKu-1">
+          <mxGeometry x="20" y="120" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QHqVieoAo0VyWfZBsxKu-5" value="Portale IIS Marconi Civitavecchia" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="QHqVieoAo0VyWfZBsxKu-1">
+          <mxGeometry x="95" y="135" width="445" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QHqVieoAo0VyWfZBsxKu-6" value="Servizi interni" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="QHqVieoAo0VyWfZBsxKu-1">
+          <mxGeometry x="40" y="190" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QHqVieoAo0VyWfZBsxKu-7" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;fontSize=20;" vertex="1" parent="QHqVieoAo0VyWfZBsxKu-1">
+          <mxGeometry x="60" y="250" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QHqVieoAo0VyWfZBsxKu-8" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;fontSize=20;" vertex="1" parent="QHqVieoAo0VyWfZBsxKu-1">
+          <mxGeometry x="180" y="250" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QHqVieoAo0VyWfZBsxKu-9" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;fontSize=20;" vertex="1" parent="QHqVieoAo0VyWfZBsxKu-1">
+          <mxGeometry x="295" y="250" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QHqVieoAo0VyWfZBsxKu-16" value="Servizi esterni" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="QHqVieoAo0VyWfZBsxKu-1">
+          <mxGeometry x="40" y="380" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QHqVieoAo0VyWfZBsxKu-17" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;fontSize=20;" vertex="1" parent="QHqVieoAo0VyWfZBsxKu-1">
+          <mxGeometry x="60" y="440" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="QHqVieoAo0VyWfZBsxKu-18" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;fontSize=20;" vertex="1" parent="QHqVieoAo0VyWfZBsxKu-1">
+          <mxGeometry x="180" y="440" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="QHqVieoAo0VyWfZBsxKu-19" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;fontSize=20;" vertex="1" parent="QHqVieoAo0VyWfZBsxKu-1">
+          <mxGeometry x="295" y="440" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="QHqVieoAo0VyWfZBsxKu-20" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;fontSize=20;" vertex="1" parent="QHqVieoAo0VyWfZBsxKu-1">
+          <mxGeometry x="410" y="440" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="QHqVieoAo0VyWfZBsxKu-21" value="Search" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.searchBox;strokeColor=#999999;mainText=;strokeColor2=#008cff;fontColor=#666666;fontSize=17;align=left;spacingLeft=3;" vertex="1" parent="QHqVieoAo0VyWfZBsxKu-1">
+          <mxGeometry x="470" y="130" width="120" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="QHqVieoAo0VyWfZBsxKu-22" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_protected;fontSize=20;" vertex="1" parent="QHqVieoAo0VyWfZBsxKu-1">
+          <mxGeometry x="600" y="135" width="10" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="QHqVieoAo0VyWfZBsxKu-23" value="Login" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="QHqVieoAo0VyWfZBsxKu-1">
+          <mxGeometry x="620" y="132.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QHqVieoAo0VyWfZBsxKu-24" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/wirecons-free-vector-icons/32/menu-alt-128.png;fontSize=14;align=left;" vertex="1" parent="QHqVieoAo0VyWfZBsxKu-1">
+          <mxGeometry x="670" y="137" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QHqVieoAo0VyWfZBsxKu-25" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fontSize=14;" vertex="1" parent="QHqVieoAo0VyWfZBsxKu-1">
+          <mxGeometry x="700" y="131.25" width="20" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="QHqVieoAo0VyWfZBsxKu-26" value="logo di univention" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=14;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="840" y="100" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QHqVieoAo0VyWfZBsxKu-27" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="890" y="60" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QHqVieoAo0VyWfZBsxKu-28" value="" style="endArrow=classic;html=1;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.1;entryY=0.567;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QHqVieoAo0VyWfZBsxKu-26" target="QHqVieoAo0VyWfZBsxKu-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="300" as="sourcePoint" />
+            <mxPoint x="700" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QHqVieoAo0VyWfZBsxKu-29" value="logo del Marconi" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=14;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="180" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QHqVieoAo0VyWfZBsxKu-30" value="" style="endArrow=classic;html=1;fontSize=14;exitX=0;exitY=0;exitDx=80;exitDy=65;exitPerimeter=0;entryX=-0.02;entryY=0.64;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QHqVieoAo0VyWfZBsxKu-29" target="QHqVieoAo0VyWfZBsxKu-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="300" as="sourcePoint" />
+            <mxPoint x="130" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
